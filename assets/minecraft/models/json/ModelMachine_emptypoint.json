@@ -1,0 +1,14 @@
+{
+  "name": "emptypoint",
+  "model": {
+      "modelFile": "ModelMachine_emptypoint.mqoz",
+      "textures": [["mat1", "textures/machine/akikawa_empty.png", ""]]
+  },
+  "buttonTexture": "textures/machine/button_emptypoint.png",
+  "machineType": "Point",
+  "sound_OnActivate": "minecraft:random.click",
+  "smoothing": true,
+  "doCulling": true,
+  "accuracy": "LOW",
+  "tags": "akikawa"
+}
