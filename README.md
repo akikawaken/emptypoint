@@ -4,7 +4,7 @@
  
 # 問題があったら
 
- twitter @akikawa_9616 のDMか githubのissueに問題を送信してください
+githubのissueに問題を送信してください
   
 # ダウンロード
  
