@@ -1,7 +1,7 @@
 {
   "name": "emptypoint",
   "model": {
-      "modelFile": "ModelMachine_emptypoint.mqoz",
+      "modelFile": "ModelMachine_emptypoint.mqo",
       "textures": [["mat1", "textures/machine/akikawa_empty.png", ""]]
   },
   "buttonTexture": "textures/machine/button_emptypoint.png",
